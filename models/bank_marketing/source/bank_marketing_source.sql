@@ -1,0 +1,1 @@
+SELECT * FROM `data-fellowship-7.bank_marketing_data.bank_dataset`
